@@ -1,5 +1,8 @@
 _repo: Van-meg-uj-a-nap-alatt-b-Elbeszelesek_75686
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jókai, Mór
@@ -15,6 +18,8 @@ creator:
     - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
     - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75686#Van-meg-uj-a-nap-alatt-b-Elbeszelesek
 gutenberg_issued: '2025-03-22'
 gutenberg_type: Text
 identifiers:
